@@ -12,9 +12,4 @@ function netHesaplama(){
     netCount = trueCount - (falseCount/4);
     
     document.getElementById("net").value = netCount
-
-    /*console.log(trueCount)
-    console.log(falseCount)*/
-    /*console.log("connected")*/
-    
 }
